@@ -167,7 +167,7 @@ small {
 }
 
 .input-container.sm {
-  padding: 10px 8px;
+  padding: 8px 6px;
 }
 
 .input-container.md {
